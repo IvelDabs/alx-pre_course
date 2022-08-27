@@ -1,13 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo ALX echo Alx School is so cool
-=======
-ALX School
->>>>>>> update_script
-=======
- update_script
-ALX School
-=======
- echo Alx School is so cool
- master
->>>>>>> 6420f129ba1f2c20c19a9a1c1a41f9c9c24c287c
+Alx
+#!/bin/bash
